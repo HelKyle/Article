@@ -1,6 +1,6 @@
 #CSS
 
-- [http://pankajparashar.com/posts/modify-pseudo-elements-css/](http://pankajparashar.com/posts/modify-pseudo-elements-css/) by [Pankaj Parashar](http://pankajparashar.com/) —— 译文 by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+- [http://pankajparashar.com/posts/modify-pseudo-elements-css/](http://pankajparashar.com/posts/modify-pseudo-elements-css/) by [Pankaj Parashar](http://pankajparashar.com/) —— [译文](http://www.w3ctrain.com/2015/07/21/modify-pseudo-elements-css/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 - [http://www.sitepoint.com/12-little-known-css-facts-the-sequel/](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/) by [Louis Lazaris](http://www.sitepoint.com/author/louis-lazaris1/) [译文](http://www.w3ctrain.com/2015/07/22/12-Little-Known-CSS-Facts/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 - [https://css-tricks.com/specifics-on-css-specificity/](https://css-tricks.com/specifics-on-css-specificity/) by [ChrisCoyier](https://css-tricks.com/author/chriscoyier/) [译文](http://www.w3ctrain.com/2015/07/25/specifics-on-css-specificity/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
