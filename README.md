@@ -14,8 +14,8 @@
 
 -[http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1](http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1) by [Rachel Smith ](http://codepen.io/rachsmith/)
 
-- [http://www.sitepoint.com/accessible-footnotes-css/](http://www.sitepoint.com/accessible-footnotes-css/)[Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
+- [http://www.sitepoint.com/accessible-footnotes-css/](http://www.sitepoint.com/accessible-footnotes-css/) by [Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 
--[https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/)[Robin Rendle ](https://css-tricks.com/author/robinrendle/)
+-[https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/)
 
-- [https://css-tricks.com/copy-paste-the-web/](https://css-tricks.com/copy-paste-the-web/)[Chris Coyier ](https://css-tricks.com/author/chriscoyier/)
+- [https://css-tricks.com/copy-paste-the-web/](https://css-tricks.com/copy-paste-the-web/) by [Chris Coyier ](https://css-tricks.com/author/chriscoyier/)
