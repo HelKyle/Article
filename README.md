@@ -23,3 +23,9 @@
 - [http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS](http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS) by [demosthenes](http://demosthenes.info/)
 
 - [https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property](https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property) by [Chris Ruppel](https://fourword.fourkitchens.com/author/chris-ruppel)
+
+- [https://css-tricks.com/what-you-should-know-about-collapsing-margins/](https://css-tricks.com/what-you-should-know-about-collapsing-margins/) by [Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)
+
+- [https://code.tutsplus.com/tutorials/understanding-fluent-apis-in-javascript--cms-24429](https://code.tutsplus.com/tutorials/understanding-fluent-apis-in-javascript--cms-24429) by [David Catuhe](https://tutsplus.com/authors/david-catuhe)
+
+- [https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317](https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) by [ Kezz Bracey](https://tutsplus.com/authors/kezz-bracey)
