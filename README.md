@@ -19,3 +19,7 @@
 -[https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/)
 
 - [https://css-tricks.com/copy-paste-the-web/](https://css-tricks.com/copy-paste-the-web/) by [Chris Coyier ](https://css-tricks.com/author/chriscoyier/)
+
+- [http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS](http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS) by [demosthenes](http://demosthenes.info/)
+
+- [https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property](https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property) by [Chris Ruppel](https://fourword.fourkitchens.com/author/chris-ruppel)
