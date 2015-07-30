@@ -27,5 +27,3 @@
 - [https://css-tricks.com/what-you-should-know-about-collapsing-margins/](https://css-tricks.com/what-you-should-know-about-collapsing-margins/) by [Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)
 
 - [https://code.tutsplus.com/tutorials/understanding-fluent-apis-in-javascript--cms-24429](https://code.tutsplus.com/tutorials/understanding-fluent-apis-in-javascript--cms-24429) by [David Catuhe](https://tutsplus.com/authors/david-catuhe)
-
-- [https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317](https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) by [ Kezz Bracey](https://tutsplus.com/authors/kezz-bracey)
