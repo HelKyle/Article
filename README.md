@@ -24,6 +24,14 @@
 
 - [https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property](https://fourword.fourkitchens.com/article/fix-scrolling-performance-css-will-change-property) by [Chris Ruppel](https://fourword.fourkitchens.com/author/chris-ruppel)
 
-- [https://css-tricks.com/what-you-should-know-about-collapsing-margins/](https://css-tricks.com/what-you-should-know-about-collapsing-margins/) by [Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)
+- [https://css-tricks.com/what-you-should-know-about-collapsing-margins/](https://css-tricks.com/what-you-should-know-about-collapsing-margins/) by [Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/) [译文](http://www.w3ctrain.com/2015/07/30/what-you-should-know-about-collapsing-margins/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
 - [https://code.tutsplus.com/tutorials/understanding-fluent-apis-in-javascript--cms-24429](https://code.tutsplus.com/tutorials/understanding-fluent-apis-in-javascript--cms-24429) by [David Catuhe](https://tutsplus.com/authors/david-catuhe)
+
+- [http://tutorialzine.com/2013/10/buttons-built-in-progress-meters/](http://tutorialzine.com/2013/10/buttons-built-in-progress-meters/) by [ Martin Angelov ]
+
+- [http://tympanus.net/codrops/2014/04/09/how-to-create-a-circular-progress-button/](http://tympanus.net/codrops/2014/04/09/how-to-create-a-circular-progress-button/) [Mary Lou](http://tympanus.net/codrops/author/crnacura/)
+
+- [https://webdesign.tutsplus.com/tutorials/how-to-give-your-logo-the-slip-scroll-effect--cms-22274](https://webdesign.tutsplus.com/tutorials/how-to-give-your-logo-the-slip-scroll-effect--cms-22274)
+
+- [https://webdesign.tutsplus.com/tutorials/create-a-masked-background-effect-with-css--cms-21112](https://webdesign.tutsplus.com/tutorials/create-a-masked-background-effect-with-css--cms-21112)
