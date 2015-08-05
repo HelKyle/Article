@@ -32,6 +32,4 @@
 
 - [https://webdesign.tutsplus.com/tutorials/create-a-masked-background-effect-with-css--cms-21112](https://webdesign.tutsplus.com/tutorials/create-a-masked-background-effect-with-css--cms-21112)
 
-- [https://css-tricks.com/data-uris/](https://css-tricks.com/data-uris/) by [Chris Coyier ](https://css-tricks.com/author/chriscoyier/)
-
-- [http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/) by [browniefed](https://twitter.com/browniefed)
+- [https://css-tricks.com/data-uris/](https://css-tricks.com/data-uris/) by [Chris Coyier ](https://css-tricks.com/author/chriscoyier/) [译文](http://www.w3ctrain.com/2015/08/05/data-uris/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
