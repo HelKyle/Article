@@ -47,9 +47,9 @@
 
 - [https://css-tricks.com/the-priority-navigation-pattern/](https://css-tricks.com/the-priority-navigation-pattern/) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 
-- [http://davidwalsh.name/flexbox-dice](http://davidwalsh.name/flexbox-dice) by [ Landon Schropp](http://davidwalsh.name/flexbox-dice)
+- [http://davidwalsh.name/flexbox-dice](http://davidwalsh.name/flexbox-dice) by [ Landon Schropp](http://davidwalsh.name/flexbox-dice) [译文](http://www.w3ctrain.com/2015/08/15/flexbox-dice/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
-- [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/)
+- [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/) [译文](http://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
 - [how-to-avoid-duplicate-downloads-in-responsive-images](http://www.smashingmagazine.com/2013/05/how-to-avoid-duplicate-downloads-in-responsive-images/) by [ Dave Newton](http://www.smashingmagazine.com/author/david-newton/)
 
