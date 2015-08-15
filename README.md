@@ -10,6 +10,12 @@
 
 - [https://css-tricks.com/what-you-should-know-about-collapsing-margins/](https://css-tricks.com/what-you-should-know-about-collapsing-margins/) by [Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/) [译文](http://www.w3ctrain.com/2015/07/30/what-you-should-know-about-collapsing-margins/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
+- [http://davidwalsh.name/flexbox-dice](http://davidwalsh.name/flexbox-dice) by [ Landon Schropp](http://davidwalsh.name/flexbox-dice) [译文](http://www.w3ctrain.com/2015/08/15/flexbox-dice/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+
+- [https://css-tricks.com/copy-paste-the-web/](https://css-tricks.com/copy-paste-the-web/) by [Chris Coyier ](https://css-tricks.com/author/chriscoyier/) [译文](http://www.w3ctrain.com/2015/08/09/copy-paste-the-web/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+
+- [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/) [译文](http://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+
 - [http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/](http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/) by [Michelle Barker](http://www.smashingmagazine.com/author/michellebarker/)
 
 - [http://alistapart.com/article/container-queries-once-more-unto-the-breach](http://alistapart.com/article/container-queries-once-more-unto-the-breach) by [Mat Marquis](http://alistapart.com/author/matmarquis)
@@ -19,8 +25,6 @@
 - [http://www.sitepoint.com/accessible-footnotes-css/](http://www.sitepoint.com/accessible-footnotes-css/) by [Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 
 - [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/)
-
-- [https://css-tricks.com/copy-paste-the-web/](https://css-tricks.com/copy-paste-the-web/) by [Chris Coyier ](https://css-tricks.com/author/chriscoyier/) [译文](http://www.w3ctrain.com/2015/08/09/copy-paste-the-web/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
 - [http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS](http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS) by [demosthenes](http://demosthenes.info/)
 
@@ -47,9 +51,6 @@
 
 - [https://css-tricks.com/the-priority-navigation-pattern/](https://css-tricks.com/the-priority-navigation-pattern/) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 
-- [http://davidwalsh.name/flexbox-dice](http://davidwalsh.name/flexbox-dice) by [ Landon Schropp](http://davidwalsh.name/flexbox-dice) [译文](http://www.w3ctrain.com/2015/08/15/flexbox-dice/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-
-- [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/) [译文](http://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
 - [how-to-avoid-duplicate-downloads-in-responsive-images](http://www.smashingmagazine.com/2013/05/how-to-avoid-duplicate-downloads-in-responsive-images/) by [ Dave Newton](http://www.smashingmagazine.com/author/david-newton/)
 
