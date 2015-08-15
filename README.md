@@ -50,3 +50,10 @@
 - [http://davidwalsh.name/flexbox-dice](http://davidwalsh.name/flexbox-dice) by [ Landon Schropp](http://davidwalsh.name/flexbox-dice)
 
 - [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/)
+
+- [how-to-avoid-duplicate-downloads-in-responsive-images](http://www.smashingmagazine.com/2013/05/how-to-avoid-duplicate-downloads-in-responsive-images/) by [ Dave Newton](http://www.smashingmagazine.com/author/david-newton/)
+
+- [Picturefill 2.0: Responsive Images And The Perfect Polyfill](http://www.smashingmagazine.com/2014/05/picturefill-2-0-responsive-images-and-the-perfect-polyfill/) by []
+
+- [Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/) by [Sarah Drasner ](https://css-tricks.com/author/sdrasner/)
+- [http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [Ritesh Kumar](http://www.sitepoint.com/author/rkumar/)
