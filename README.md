@@ -64,4 +64,6 @@
 
 - [How SVG Line Animation Works](https://css-tricks.com/svg-line-animation-works/) by [Chris Coyier] (https://css-tricks.com/author/chriscoyier/)
 
-- [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/) by [https://css-tricks.com](https://css-tricks.com)
+- [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/) by [css-tricks](https://css-tricks.com)
+
+- [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) by [yahoo](developer.yahoo.com)
