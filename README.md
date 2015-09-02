@@ -1,4 +1,4 @@
-#CSS
+#已翻译
 
 - [http://pankajparashar.com/posts/modify-pseudo-elements-css/](http://pankajparashar.com/posts/modify-pseudo-elements-css/) by [Pankaj Parashar](http://pankajparashar.com/) —— [译文](http://www.w3ctrain.com/2015/07/21/modify-pseudo-elements-css/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
@@ -14,13 +14,16 @@
 
 - [https://css-tricks.com/copy-paste-the-web/](https://css-tricks.com/copy-paste-the-web/) by [Chris Coyier ](https://css-tricks.com/author/chriscoyier/) [译文](http://www.w3ctrain.com/2015/08/09/copy-paste-the-web/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
-- [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/) [译文](http://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+- [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/)  [译文](http://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+
+- [http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1](http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1) by [Rachel Smith ] (http://codepen.io/rachsmith/)  [译文](http://www.w3ctrain.com/2015/09/01/hack-physics-and-javascript-1/)  by [Helkyle](http://www.w3ctrain.com/about/#Helkyle) 
+
+#待翻译
 
 - [http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/](http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/) by [Michelle Barker](http://www.smashingmagazine.com/author/michellebarker/)
 
 - [http://alistapart.com/article/container-queries-once-more-unto-the-breach](http://alistapart.com/article/container-queries-once-more-unto-the-breach) by [Mat Marquis](http://alistapart.com/author/matmarquis)
 
--[http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1](http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1) by [Rachel Smith ](http://codepen.io/rachsmith/)
 
 - [http://www.sitepoint.com/accessible-footnotes-css/](http://www.sitepoint.com/accessible-footnotes-css/) by [Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 
@@ -58,3 +61,7 @@
 
 - [Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/) by [Sarah Drasner ](https://css-tricks.com/author/sdrasner/)
 - [http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [Ritesh Kumar](http://www.sitepoint.com/author/rkumar/)
+
+- [How SVG Line Animation Works](https://css-tricks.com/svg-line-animation-works/) by [Chris Coyier] (https://css-tricks.com/author/chriscoyier/)
+
+- [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/) by [https://css-tricks.com](https://css-tricks.com)
