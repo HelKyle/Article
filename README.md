@@ -17,6 +17,7 @@
 - [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/)  [译文](http://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
 - [http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1](http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1) by [Rachel Smith ] (http://codepen.io/rachsmith/)  [译文](http://www.w3ctrain.com/2015/09/01/hack-physics-and-javascript-1/)  by [Helkyle](http://www.w3ctrain.com/about/#Helkyle) 
+- [The Difference Between :nth-child and :nth-of-type](https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/) by [Chris Coyier ](https://css-tricks.com/author/chriscoyier/) [译文](http://www.w3ctrain.com/2015/09/04/the-difference-between-nth-child-and-nth-of-type/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle) 
 
 #待翻译
 
@@ -67,3 +68,9 @@
 - [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/) by [css-tricks](https://css-tricks.com)
 
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) by [yahoo](developer.yahoo.com)
+
+- [The 300 ms Click Delay and iOS 8](http://developer.telerik.com/featured/300-ms-click-delay-ios-8/) by [Opinion](http://developer.telerik.com/category/content-types/opinion/)
+
+- [5 Ways to Prevent the 300ms Click Delay on Mobile Devices](http://www.sitepoint.com/5-ways-prevent-300ms-click-delay-mobile-devices/) by [Craig Buckler](http://www.sitepoint.com/author/craig-buckler/)
+
+- [Animations: the Angular Way](https://css-tricks.com/animations-the-angular-way/) by  [css-tricks](https://css-tricks.com)
