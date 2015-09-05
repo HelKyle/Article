@@ -74,3 +74,5 @@
 - [5 Ways to Prevent the 300ms Click Delay on Mobile Devices](http://www.sitepoint.com/5-ways-prevent-300ms-click-delay-mobile-devices/) by [Craig Buckler](http://www.sitepoint.com/author/craig-buckler/)
 
 - [Animations: the Angular Way](https://css-tricks.com/animations-the-angular-way/) by  [css-tricks](https://css-tricks.com)
+
+- [Emoji Toggles!](https://css-tricks.com/emoji-toggles/) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
