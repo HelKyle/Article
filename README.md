@@ -1,5 +1,7 @@
 #已翻译
 
+- [Understanding JavaScript Constructors](https://css-tricks.com/understanding-javascript-constructors/) by [css-tricks](https://css-tricks.com/) -- [译文](http://www.w3ctrain.com/2015/09/25/understanding-javascript-constructors/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+
 - [http://pankajparashar.com/posts/modify-pseudo-elements-css/](http://pankajparashar.com/posts/modify-pseudo-elements-css/) by [Pankaj Parashar](http://pankajparashar.com/) —— [译文](http://www.w3ctrain.com/2015/07/21/modify-pseudo-elements-css/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 
 - [http://www.sitepoint.com/12-little-known-css-facts-the-sequel/](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/) by [Louis Lazaris](http://www.sitepoint.com/author/louis-lazaris1/) [译文](http://www.w3ctrain.com/2015/07/22/12-Little-Known-CSS-Facts/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle)
