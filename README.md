@@ -23,6 +23,8 @@
 
 - [You Don't Know Anything About Regular Expressions: A Complete Guide](http://code.tutsplus.com/tutorials/you-dont-know-anything-about-regular-expressions-a-complete-guide--net-7869) by[Jeffrey Way](http://tutsplus.com/authors/jeffrey-way) [译文](http://www.w3ctrain.com/2015/09/04/the-difference-between-nth-child-and-nth-of-type/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle) 
 
+- [Image diffing using CSS](http://franklinta.com/2014/11/30/image-diffing-using-css/) by [Franklin Ta](http://franklinta.com/author/fta2012gmail-com/) [译文](http://www.w3ctrain.com/2015/10/18/image-deffing-using-css/) by [Helkyle](http://www.w3ctrain.com/about/#Helkyle) 	
+
 #待翻译
 
 - [http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/](http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/) by [Michelle Barker](http://www.smashingmagazine.com/author/michellebarker/)
