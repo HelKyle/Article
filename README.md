@@ -1,9 +1,7 @@
 #已翻译
 ---
-[toc]
-
 ## css
----
+
 ###[12个鲜为人知的CSS技能(上)](http://www.w3ctrain.com/2015/07/22/12-Little-Known-CSS-Facts/) 
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 译文：[12 Little-Known CSS Facts (The Sequel)](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/) 
@@ -26,7 +24,7 @@
 
 
 ## javascript
----
+
 
 ###[详解JavaScript构造器](http://www.w3ctrain.com/2015/09/25/understanding-javascript-constructors/) 
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
@@ -68,7 +66,7 @@
 
 
 #待翻译
-
+---
 - [http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/](http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/) by [Michelle Barker](http://www.smashingmagazine.com/author/michellebarker/)
 
 - [http://alistapart.com/article/container-queries-once-more-unto-the-breach](http://alistapart.com/article/container-queries-once-more-unto-the-breach) by [Mat Marquis](http://alistapart.com/author/matmarquis)
@@ -111,7 +109,7 @@
 - [Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/) by [Sarah Drasner ](https://css-tricks.com/author/sdrasner/)
 - [http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [Ritesh Kumar](http://www.sitepoint.com/author/rkumar/)
 
-- [How SVG Line Animation Works](https://css-tricks.com/svg-line-animation-works/) by [Chris Coyier] (https://css-tricks.com/author/chriscoyier/)
+- [How SVG Line Animation Works](https://css-tricks.com/svg-line-animation-works/) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 
 - [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/) by [css-tricks](https://css-tricks.com)
 
