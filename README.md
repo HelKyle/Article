@@ -20,6 +20,10 @@
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 译文：[The Difference Between :nth-child and :nth-of-type](https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/)
 
+###[关于居中(一)](http://www.w3ctrain.com/2015/12/07/about-center/)
+译者：[Cyseria](http://www.w3ctrain.com/about/#Cyseria)
+译文：[centering css complete guide](https://css-tricks.com/centering-css-complete-guide/)
+
 
 ## javascript
 ---
