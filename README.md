@@ -1,18 +1,23 @@
 #已翻译
 ---
+## Gulp
+###[Gulp新手入门教程](http://www.w3ctrain.com/2015/12/22/gulp-for-beginners/)
+译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+译文：[Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
+
 ## css
 
-###[12个鲜为人知的CSS技能(上)](http://www.w3ctrain.com/2015/07/22/12-Little-Known-CSS-Facts/) 
+###[12个鲜为人知的CSS技能(上)](http://www.w3ctrain.com/2015/07/22/12-Little-Known-CSS-Facts/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-译文：[12 Little-Known CSS Facts (The Sequel)](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/) 
+译文：[12 Little-Known CSS Facts (The Sequel)](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/)
 
-###[前端面试专题特攻之CSS权重](http://www.w3ctrain.com/2015/07/25/specifics-on-css-specificity/) 
+###[前端面试专题特攻之CSS权重](http://www.w3ctrain.com/2015/07/25/specifics-on-css-specificity/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-译文：[12 Little-Known CSS Facts (The Sequel)](https://css-tricks.com/specifics-on-css-specificity/) 
+译文：[12 Little-Known CSS Facts (The Sequel)](https://css-tricks.com/specifics-on-css-specificity/)
 
-###[前端工程师应该知道的Margin坍塌](http://www.w3ctrain.com/2015/07/30/what-you-should-know-about-collapsing-margins/) 
+###[前端工程师应该知道的Margin坍塌](http://www.w3ctrain.com/2015/07/30/what-you-should-know-about-collapsing-margins/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-译文：[What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/) 
+译文：[What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
 
 ###[:nth-child 和 :nth-of-type的区别](http://www.w3ctrain.com/2015/09/04/the-difference-between-nth-child-and-nth-of-type/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
@@ -26,28 +31,28 @@
 ## javascript
 
 
-###[详解JavaScript构造器](http://www.w3ctrain.com/2015/09/25/understanding-javascript-constructors/) 
+###[详解JavaScript构造器](http://www.w3ctrain.com/2015/09/25/understanding-javascript-constructors/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-译文：[Understanding JavaScript Constructors](https://css-tricks.com/understanding-javascript-constructors/) 
+译文：[Understanding JavaScript Constructors](https://css-tricks.com/understanding-javascript-constructors/)
 
 ### [使用JavaScript修改伪类样式的方法总结](http://www.w3ctrain.com/2015/07/21/modify-pseudo-elements-css/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-译文： [Modify pseudo element styles with JavaScript](http://pankajparashar.com/posts/modify-pseudo-elements-css/) 
+译文： [Modify pseudo element styles with JavaScript](http://pankajparashar.com/posts/modify-pseudo-elements-css/)
 
 
 
 ## 小练习
-### [新手学Flexbox之绘制色子](http://www.w3ctrain.com/2015/08/15/flexbox-dice/) 
+### [新手学Flexbox之绘制色子](http://www.w3ctrain.com/2015/08/15/flexbox-dice/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-译文： [Getting Dicey With Flexbox](http://www.w3ctrain.com/2015/08/15/flexbox-dice/) 
+译文： [Getting Dicey With Flexbox](http://www.w3ctrain.com/2015/08/15/flexbox-dice/)
 
 ### [前端绘制图形的几种方式](http://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 译文： [working with shapes in web design](https://css-tricks.com/working-with-shapes-in-web-design/)
 
-### [黑客物理学（part 1）](http://www.w3ctrain.com/2015/09/01/hack-physics-and-javascript-1/) 
+### [黑客物理学（part 1）](http://www.w3ctrain.com/2015/09/01/hack-physics-and-javascript-1/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-译文： [hack physics and javascript 1](http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1) 
+译文： [hack physics and javascript 1](http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1)
 
 
 
@@ -56,13 +61,13 @@
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 译文： [Copy & Paste & The Web](https://css-tricks.com/copy-paste-the-web/)
 
-### [Data URIs](http://www.w3ctrain.com/2015/08/05/data-uris/) 
+### [Data URIs](http://www.w3ctrain.com/2015/08/05/data-uris/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 译文： [Data URIs](https://css-tricks.com/data-uris/)
 
 ### [使用css秒过<大家来找茬>](http://www.w3ctrain.com/2015/10/18/image-deffing-using-css/)
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
-译文：[Image diffing using CSS](http://franklinta.com/2014/11/30/image-diffing-using-css/) 
+译文：[Image diffing using CSS](http://franklinta.com/2014/11/30/image-diffing-using-css/)
 
 
 #待翻译
@@ -95,7 +100,7 @@
 
 - [https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
 
-- [https://css-tricks.com/transforms-on-svg-elements/](https://css-tricks.com/transforms-on-svg-elements/) 
+- [https://css-tricks.com/transforms-on-svg-elements/](https://css-tricks.com/transforms-on-svg-elements/)
 
 - [https://css-tricks.com/a-complete-guide-to-svg-fallbacks/](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/)
 
