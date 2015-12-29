@@ -54,7 +54,9 @@
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 译文： [hack physics and javascript 1](http://codepen.io/rachsmith/blog/hack-physics-and-javascript-1)
 
-
+### [用emoji做切换按钮](http://www.w3ctrain.com/2015/12/29/use-emoji-toggles/)
+译者：[Cyseria](http://www.w3ctrain.com/about/#Cyseria)
+译文： [Emoji Toggles!](https://css-tricks.com/emoji-toggles/)
 
 ## 小技巧
 ### [网页上的复制粘贴](http://www.w3ctrain.com/2015/08/09/copy-paste-the-web/)
@@ -126,4 +128,4 @@
 
 - [Animations: the Angular Way](https://css-tricks.com/animations-the-angular-way/) by  [css-tricks](https://css-tricks.com)
 
-- [Emoji Toggles!](https://css-tricks.com/emoji-toggles/) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
+
