@@ -27,6 +27,9 @@
 译者：[Cyseria](http://www.w3ctrain.com/about/#Cyseria)
 译文：[centering css complete guide](https://css-tricks.com/centering-css-complete-guide/)
 
+###[前端绘制图形的几种方式](http://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/)
+译者：[Cyseria](http://www.w3ctrain.com/about/#Cyseria)
+译文：[working with shapes in web design](https://css-tricks.com/working-with-shapes-in-web-design/)
 
 ## javascript
 
@@ -82,7 +85,6 @@
 
 - [http://www.sitepoint.com/accessible-footnotes-css/](http://www.sitepoint.com/accessible-footnotes-css/) by [Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 
-- [https://css-tricks.com/working-with-shapes-in-web-design/](https://css-tricks.com/working-with-shapes-in-web-design/) by [Robin Rendle ](https://css-tricks.com/author/robinrendle/)
 
 - [http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS](http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS) by [demosthenes](http://demosthenes.info/)
 
@@ -113,6 +115,7 @@
 - [Picturefill 2.0: Responsive Images And The Perfect Polyfill](http://www.smashingmagazine.com/2014/05/picturefill-2-0-responsive-images-and-the-perfect-polyfill/) by []
 
 - [http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [Ritesh Kumar](http://www.sitepoint.com/author/rkumar/)
+
 ## Animation
 
 - [Animations: the Angular Way](https://css-tricks.com/animations-the-angular-way/) by  [css-tricks](https://css-tricks.com)
