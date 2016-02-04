@@ -42,6 +42,11 @@
 译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
 译文： [Modify pseudo element styles with JavaScript](http://pankajparashar.com/posts/modify-pseudo-elements-css/)
 
+## Animation
+
+###[如何调试CSS的关键帧(keyframe)动画](http://w3ctrain.com/2016/02/04/debug-animation/)
+译者：[Cyseria](http://www.w3ctrain.com/about/#Cyseria)
+译文：[Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/)
 
 
 ## 小练习
@@ -120,7 +125,6 @@
 
 - [Animations: the Angular Way](https://css-tricks.com/animations-the-angular-way/) by  [css-tricks](https://css-tricks.com)
 
-- [Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/) by [Sarah Drasner ](https://css-tricks.com/author/sdrasner/)
 
 ## Optimize
 
