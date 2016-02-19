@@ -80,6 +80,11 @@
 译文：[Image diffing using CSS](http://franklinta.com/2014/11/30/image-diffing-using-css/)
 
 
+### [继承使用box-sizing可能会更好](http://www.w3ctrain.com/2016/02/19/inheriting-box-sizing-probably-slightly-better-best-practice/)
+译者：[Helkyle](http://www.w3ctrain.com/about/#Helkyle)
+译文：[Inheriting box-sizing Probably Slightly Better Best-Practice](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+
+
 #待翻译
 ---
 
@@ -141,3 +146,6 @@
 
 ## Flex
 - [`flex-grow` is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/) by  [css-tricks](https://css-tricks.com)
+
+## Pseudo
+- [Pseudo and pseudon’t](https://adactio.com/journal/10000) by [Adactio](https://adactio.com/)
