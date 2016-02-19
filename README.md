@@ -126,10 +126,29 @@
 
 - [http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [Ritesh Kumar](http://www.sitepoint.com/author/rkumar/)
 
+- [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/) by [Damon Bauer](http://damonbauer.me/)
+
+- [CSS-Only Raindrops on Window Effect](http://blogs.adobe.com/dreamweaver/2015/06/css-only-raindrops-on-window-effect.html#.VXT6Glyqqko) by [Lucas Bebber](http://blogs.adobe.com/dreamweaver/author/lucas-bebber)
+
+- [How Floating Works](http://bitsofco.de/how-floating-works/) by [bitsofco](http://bitsofco.de/)
+
+- [https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/](Building A Circular Navigation with CSS Clip Paths) by [Sara Soueidan](http://sarasoueidan.com/)
+
+- [Simulate mouse / touch events with jQuery in PhantomJS and the browser](http://ngryman.sh/articles/simulate-mouse--touch-events-with-jquery-in-phantomjs-and-the-browser/) by [ Nicolas Gryman](https://plus.google.com/116260634660700511285)
+
+- [Localizing Times in JavaScript](https://css-tricks.com/localizing-times-in-javascript/) by [CHRIS COYIER ](https://css-tricks.com/author/chriscoyier/)
+
+- [Scroll/Follow Sidebar, Multiple Techniques](https://css-tricks.com/scrollfollow-sidebar/) by [CHRIS COYIER ](https://css-tricks.com/author/chriscoyier/)
+
+- [How I Live-Coded My Most-Hearted Pen](https://css-tricks.com/how-i-live-coded-my-most-hearted-codepen-demo/) by [ANA TUDOR ](https://css-tricks.com/author/thebabydino/)
+
 ## Animation
 
 - [Animations: the Angular Way](https://css-tricks.com/animations-the-angular-way/) by  [css-tricks](https://css-tricks.com)
 
+- [Recreating the Google Logo Animation with SVG and GreenSock](https://css-tricks.com/recreating-the-google-logo-animation-with-svg-and-greensock/) by [ Petr Tichy](https://ihatetomatoes.net/)
+
+- [CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More](https://css-tricks.com/css-animation-tricks/) by [ Zach Saucier](http://zachsaucier.com/)
 
 ## Optimize
 
@@ -139,13 +158,45 @@
 
 - [5 Ways to Prevent the 300ms Click Delay on Mobile Devices](http://www.sitepoint.com/5-ways-prevent-300ms-click-delay-mobile-devices/) by [Craig Buckler](http://www.sitepoint.com/author/craig-buckler/)
 
+- [4 steps to improve your website’s performance](http://zerosixthree.se/4-steps-to-improve-your-websites-performance/) by [Sebastian Ekström](http://zerosixthree.se/)
+
 ## SVG
 - [Click SVG Element to Focus (and Style)](https://css-tricks.com/click-svg-to-focus/) by  [css-tricks](https://css-tricks.com)
 
 - [How SVG Line Animation Works](https://css-tricks.com/svg-line-animation-works/) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
+
+- [A Guide to SVG Animations (SMIL)](https://css-tricks.com/guide-svg-animations-smil/) by [ Sara Soueidan](http://sarasoueidan.com/)
+
+- [Tight Fitting SVG Shapes, the Present and Future](https://css-tricks.com/tight-fitting-svg-shapes/) by [ANA TUDOR ](https://css-tricks.com/author/thebabydino/)
+
+## Sass
+- [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project) by [John W. Long](http://wiseheartdesign.com/)
+
+- [A Simple Responsive Grid, Made Even Better With Sass](http://webdesign.tutsplus.com/tutorials/a-simple-responsive-grid-made-even-better-with-sass--cms-21540) by [Hugo Giraudel](http://hugogiraudel.com/)
+
+- [8 Sass mixins you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/) by [Sebastian Ekström](http://zerosixthree.se/)
+
+- [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/) by [Rich Finelli](http://www.richfinelli.com/)
 
 ## Flex
 - [`flex-grow` is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/) by  [css-tricks](https://css-tricks.com)
 
 ## Pseudo
 - [Pseudo and pseudon’t](https://adactio.com/journal/10000) by [Adactio](https://adactio.com/)
+
+## React
+- [I Learned How to be Productive in React in a Week and You Can, Too](https://css-tricks.com/productive-in-react/) by [Sarah Drasner](https://css-tricks.com/author/sdrasner/)
+
+## Design Pattern
+- [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) by [DEVAN PATEL](https://scotch.io/author/devan)
+
+## Media Query
+- [The Fab Four technique to create Responsive Emails without Media Queries](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.hyjx3kl5m) by [Rémi Parmentier](https://medium.com/@hteumeuleu)
+
+## Gulp
+- [Advanced Gulp File](http://www.mikestreety.co.uk/blog/an-advanced-gulpjs-file) by [Mike Street](http://www.mikestreety.co.uk/)
+
+## Form
+- [Drag and Drop File Uploading](https://css-tricks.com/drag-and-drop-file-uploading/) by [Osvaldas Valutis](http://osvaldas.info/)
+
+- [Styling & Customizing File Inputs the Smart Way](http://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/) by [Osvaldas Valutis](http://tympanus.net/codrops/author/osvaldasv/)
