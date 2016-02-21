@@ -174,8 +174,6 @@
 
 - [A Simple Responsive Grid, Made Even Better With Sass](http://webdesign.tutsplus.com/tutorials/a-simple-responsive-grid-made-even-better-with-sass--cms-21540) by [Hugo Giraudel](http://hugogiraudel.com/)
 
-- [8 Sass mixins you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/) by [Sebastian Ekström](http://zerosixthree.se/)
-
 - [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/) by [Rich Finelli](http://www.richfinelli.com/)
 
 ## Flex
